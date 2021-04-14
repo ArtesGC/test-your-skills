@@ -5,8 +5,8 @@ try to solve this problems using your favorite programming languages and his fra
 | Problems to be solved |
 | --- |
 | 1. Find the shortest path between two nodes |
-| 2. Find the first N prime numbers |
-| 3. Sorting N numbers. |
+| 2. Find the first 10 prime numbers |
+| 3. Sorting 50 numbers. |
 | 4. Given two strings, write a program that efficiently finds the longest common subsequence. |
 | 5. Given two strings, write a program that outputs the shortest sequence of character insertions and deletions that turn one string into the other. |
 | 6. Write a program that displays a bouncing ball. |
@@ -15,8 +15,8 @@ try to solve this problems using your favorite programming languages and his fra
 | 9. Write a program that outputs all possibilities to put `+` or `-` or `nothing` between the numbers `1,2,…,9` (in this order) such that the result is `100`. For example: 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100. |
 | 10. Write a function that combines two lists by alternatingly taking elements. For example: `[a,b,c], [1,2,3] → [a,1,b,2,c,3]`. |
 | 11. Write a function that takes a number and returns a list of its digits. So for `2342` it should return `[2,3,4,2]`. |
-| Write a function that returns the largest element in a list. |
-| 12. Write a function that takes a list of strings and prints them, one per line, in a rectangular frame.
+| 12. Write a function that returns the largest element in a list. |
+| 13. Write a function that takes a list of strings and prints them, one per line, in a rectangular frame.
 
 ``` txt
 For example the list
