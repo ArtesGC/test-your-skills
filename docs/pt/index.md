@@ -2,6 +2,8 @@
 
 Tente resolver esses problemas usando suas linguagens de programação favoritas e suas estruturas
 
+- [Ver Página em Inglês](https://artesgc.github.io/test-your-skills/)
+
 | Problemas a serem resolvidos |
 | --- |
 | 1. Encontre o caminho mais curto entre dois nós |

@@ -2,6 +2,8 @@
 
 try to solve this problems using your favorite programming languages and his frameworks
 
+- [View Portuguese page](https://artesgc.github.io/test-your-skills/pt/)
+
 | Problems to be solved |
 | --- |
 | 1. Find the shortest path between two nodes |
