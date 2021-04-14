@@ -35,10 +35,10 @@ gets printed as:
 
 ## How to contribute
 
-- Firstly, `fork` and get your copy of this repo
+- Firstly, `fork` and get your copy of this repo \
 ![fork-the-project](img/fork.png)
 
-- Secondly, create your own `branch`
+- Secondly, create your own `branch` \
 ![create-your-branch](img/create-branch.png)
 
 - Thirdly, `clone` the repo from your profile on your machine executing the folowing code: \
