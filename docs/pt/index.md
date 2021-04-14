@@ -36,10 +36,10 @@ Por exemplo, a lista
 ## Como contribuir
 
 - Em primeiro lugar, `fork` e obtenha sua cópia deste repo \
-![fork-the-project](/img/fork.png)
+![fork-the-project](../img/fork.png)
 
 - Em segundo lugar, crie o seu próprio `branch` \
-![create-your-branch](/img/create-branch.png)
+![create-your-branch](../img/create-branch.png)
 
 - Em terceiro lugar, `clone` o repo do seu perfil na sua máquina executando o seguinte código: \
 `$ git clone https://github.com/<seu-nome-do-perfil>/test-your-skills.git`
