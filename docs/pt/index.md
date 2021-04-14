@@ -1,4 +1,4 @@
-# test-your-skills
+# teste-suas-habilidades
 
 Tente resolver esses problemas usando suas linguagens de programação favoritas e suas estruturas
 
