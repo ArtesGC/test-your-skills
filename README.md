@@ -36,14 +36,15 @@ gets printed as:
 
 ## How to contribute
 
-- Firstly, `fork` and get your copy of this repo \
-![fork-the-project](img/fork.png)
+- Firstly, `fork` and get your copy of this repo 
+    - ![fork-the-project](img/fork.png)
 
-- Secondly, create your own `branch` \
-![create-your-branch](img/create-branch.png)
+- Secondly, create your own `branch` 
+    -![create-your-branch](img/create-branch.png)
 
 - Thirdly, `clone` the repo from your profile on your machine executing the folowing code: \
-`$ git clone https://github.com/<your-profile-name>/test-your-skills.git`
+    - `$ git clone https://github.com/<your-profile-name>/test-your-skills.git`
+    - or `gh repo clone <your-profile-name>/test-your-skills`
 
 - Finally create a `folder-with-your-name` and lets the magic happen 😁🤓..
 
@@ -51,5 +52,5 @@ gets printed as:
 
 Projects based on: <https://adriann.github.io/programming_problems.html>
 
-&copy; [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com) \
+&copy; 2021 [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com) \
 &trade; [ArtesGC](https://artesgc.home.blog)
