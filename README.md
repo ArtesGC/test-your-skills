@@ -40,13 +40,13 @@ gets printed as:
     - ![fork-the-project](img/fork.png)
 
 - Secondly, create your own `branch` 
-    -![create-your-branch](img/create-branch.png)
+    - ![create-your-branch](img/create-branch.png)
 
 - Thirdly, `clone` the repo from your profile on your machine executing the folowing code: \
     - `$ git clone https://github.com/<your-profile-name>/test-your-skills.git`
     - or `gh repo clone <your-profile-name>/test-your-skills`
 
-- Finally create a `folder-with-your-name` and lets the magic happen 😁🤓..
+- Finally, create a `folder-with-your-name` and lets the magic happen 😁🤓..
 
 ---
 
